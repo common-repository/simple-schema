@@ -1,0 +1,13 @@
+{
+    "name" : "Simple Schema",
+    "version" : "1.0.2",
+    "requires" : "3.2",
+    "tested" : "4.8.0",
+    "upgrade_notice" : "Here's why you should upgrade...",
+    "author" : "SimpleSchema",
+	"author_homepage" : "https://simpleschema.com/",
+    "download_url" : "https://bitbucket.org/simpleschemateam/simple-schema-updates/downloads/simple-schema_v1.0.0.zip",
+    "sections" : {
+        "description" : "Simple Schema is the most complete Semantic HTML Plugin available for WordPress. Search Engines use semantic markup to rank and display your content appropriately. Our plugin includes: Person, Product, Event, Organization, Movie, Book, and Review. Assign schemas per page or post; select where they display (Before Content, After Content, Hidden); even Preview them before saving. Simple Schema makes Semantic SEO as easy as selecting a few simple options and filling-in-the-blanks."
+    }
+}

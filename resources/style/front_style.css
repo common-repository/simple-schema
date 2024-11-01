@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+.i_sdc_div{
+    background: #eee;
+    border: 1px solid #ccc;
+    /*font-size: 14px;
+    line-height: 20px;*/
+    margin: 10px auto;
+    padding: 10px 10px;
+}
